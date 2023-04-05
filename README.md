@@ -32,7 +32,7 @@ In other words, the company wants to understand the driving factors (or driver v
 - Long tenure (60 months)
 - Rental & Mortgage home ownership
 - E,F,G grade and all sub grades in this category
-- >11% interest rate
+- greater than 11% interest rate
 - Non-collateralized categories such as credit card, Debt consolidation and High risk categories such as small business
 #### Next Steps for Lending Club
 - Deploy LCs (loan collectors) effectively for user verification. Currently the quality of assessment is sub par
