@@ -1,7 +1,7 @@
 # Lending Club Case Study
->Using EDA to understand how consumer attributes and loan attributes influence the tendency of default. 
->Identify patterns in loan defaulters, so that such loans can be reduced thereby cutting down loss.
->Identify patterns in loan payers, so that such loans can approved.
+- Using EDA to understand how consumer attributes and loan attributes influence the tendency of default. 
+- Identify patterns in loan defaulters, so that such loans can be reduced thereby cutting down loss.
+- Identify patterns in loan payers, so that such loans can approved.
 
 
 ## Table of Contents
